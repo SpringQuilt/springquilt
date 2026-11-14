@@ -3,6 +3,6 @@
   <p align="center">
  <div align="center">
 
-[strawpage](https://springquilt.straw.page/) ✿ [ata](https://springquilt.atabook.org/) ✿ [artfight](https://artfight.net/~fernpaste)
+[strawpage](https://springquilt.straw.page/) ✿ [ata](https://springquilt.atabook.org/)
 
 <img width="120" src="https://komarev.com/ghpvc/?username=springquilt&label=gummy+worms&color=f06992">
